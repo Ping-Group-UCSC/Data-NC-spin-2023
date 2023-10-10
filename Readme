@@ -1,0 +1,11 @@
+Data respository for "How spin relaxes and dephases in halide pervoskites"
+
+1.Folder "Data-For-Plots-of-Main-Text" contains
+final data used for ploting the figures of the main text.
+
+
+2.Folder "Inputs-Ouputs" contains
+input files of the calculations used for generating data of the main-text figures
+and the key output files of representative calcuations.
+
+There is a README file in folder "Inputs-Ouputs".
